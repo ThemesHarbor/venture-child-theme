@@ -1,6 +1,6 @@
 # Venture child theme
 
-The venture child theme is a starter blank child theme for the [Venture WordPress theme](https://themesharbor.com/downloads/venture/).
+The Venture child theme is a starter blank child theme for the [Venture WordPress theme](https://themesharbor.com/downloads/venture/).
 
 ## Renaming _(optional)_
 
